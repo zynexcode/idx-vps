@@ -41,8 +41,8 @@ sleep 1
 # Install nebula file
 echo "Installing file..."
 cd
-gìt clone https://github.com/rasingamerzop/Yml.git
-cd Yml
+gìt clone https://github.com/zynexcode/idx-vps.git
+cd git
 
 # Run Nebula
 echo "Running nebula..."
